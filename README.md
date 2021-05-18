@@ -1,1 +1,5 @@
-# PayU OlaMoney Android v1.0.0
+
+### Integration of PayU OlaMoney Android (Latest version 1.1.0)
+
+Go to this document:
+https://payumobile.gitbook.io/sdk-integration/android/olamoney
